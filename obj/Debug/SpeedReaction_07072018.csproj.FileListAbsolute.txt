@@ -1,0 +1,10 @@
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\bin\Debug\SpeedReaction_07072018.exe.config
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\bin\Debug\SpeedReaction_07072018.exe
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\bin\Debug\SpeedReaction_07072018.pdb
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.csprojAssemblyReference.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.FormReaction.resources
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.Properties.Resources.resources
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.csproj.GenerateResource.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.csproj.CoreCompileInputs.cache
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.exe
+C:\Users\x220\Documents\Visual Studio 2017\[Project]\[videosharp.info]\SpeedReaction_07072018\SpeedReaction_07072018\obj\Debug\SpeedReaction_07072018.pdb
